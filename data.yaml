@@ -1,0 +1,10 @@
+path: /home/conqueror/SELF_DRIVING_CAR/yolo_dataset
+train: train/images
+val: val/images
+
+# YOLOv8 Class Labels
+names:
+  0: vehicle
+  1: pedestrian
+  2: traffic_light
+  3: traffic_sign
